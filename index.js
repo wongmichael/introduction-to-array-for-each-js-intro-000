@@ -4,6 +4,6 @@ function doToElementsInArray(array,fn){
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely(){
-
+function changeCompletely(n){
+  n+='a'
 }
